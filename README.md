@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrajImani
 - 👀 I’m interested in Sec
 - 🌱 I’m currently learning out sec
-- 💞️ I’m looking to collaborate on Security plans
+- 💞️ I’m looking to collaborate on Security plan
 - 📫 How to reach me by mailing me or link3
 
 <!---
