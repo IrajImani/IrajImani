@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrajImani
 - 👀 I’m interested in Security
-- 🌱 I’m currently learning out securityس
+- 🌱 I’m currently learning out security
 - 💞️ I’m looking to collaborate on Security plans
 - 📫 How to reach me by mailing me or link
 
